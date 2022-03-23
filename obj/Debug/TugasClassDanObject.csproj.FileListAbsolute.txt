@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\TugasClassDanObject\bin\Debug\TugasClassDanObject.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\TugasClassDanObject\obj\Debug\TugasClassDanObject.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\TugasClassDanObject\bin\Debug\TugasClassDanObject.exe
+c:\users\dell\documents\visual studio 2015\Projects\TugasClassDanObject\bin\Debug\TugasClassDanObject.pdb
+c:\users\dell\documents\visual studio 2015\Projects\TugasClassDanObject\obj\Debug\TugasClassDanObject.exe
+c:\users\dell\documents\visual studio 2015\Projects\TugasClassDanObject\obj\Debug\TugasClassDanObject.pdb
